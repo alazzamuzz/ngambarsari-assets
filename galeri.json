@@ -1,6 +1,12 @@
 [
   {
     "category": "wisata",
+    "title": "Monumen Jenderal Soedirman Ngambarsari",
+    "desc": "Patung Panglima Besar Jenderal Soedirman lengkap dengan relief perjuangan gerilya yang berdiri megah di ketinggian Desa Ngambarsari dengan latar langit cerah dan perbukitan.",
+    "src": "https://cdn.jsdelivr.net/gh/alazzamuzz/ngambarsari-assets@main/galeri/monumen-jenderal-soedirman-ngambarsari-1795360198.webp"
+  },
+  {
+    "category": "wisata",
     "title": "Kawasan Wisata Embung Banteng Ngambarsari",
     "desc": "Suasana sejuk di tepi kolam Embung Banteng yang dikelilingi pagar merah-abu dan latar gugusan perbukitan hijau di Desa Ngambarsari.",
     "src": "https://cdn.jsdelivr.net/gh/alazzamuzz/ngambarsari-assets@main/galeri/kawasan-wisata-embung-banteng-ngambarsari-1795359931.webp"
