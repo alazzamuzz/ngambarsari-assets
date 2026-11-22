@@ -1,6 +1,12 @@
 [
   {
     "category": "wisata",
+    "title": "Tebing Air Terjun Grojogan Samberlowo",
+    "desc": "Aliran air jernih yang memecah bebatuan tebing alami kawasan wisata Grojogan Samberlowo, Desa Ngambarsari.",
+    "src": "https://cdn.jsdelivr.net/gh/alazzamuzz/ngambarsari-assets@main/galeri/tebing-air-terjun-grojogan-samberlowo-1795362225.webp"
+  },
+  {
+    "category": "wisata",
     "title": "Monumen Jenderal Soedirman Ngambarsari",
     "desc": "Patung Panglima Besar Jenderal Soedirman lengkap dengan relief perjuangan gerilya yang berdiri megah di ketinggian Desa Ngambarsari dengan latar langit cerah dan perbukitan.",
     "src": "https://cdn.jsdelivr.net/gh/alazzamuzz/ngambarsari-assets@main/galeri/monumen-jenderal-soedirman-ngambarsari-1795360198.webp"
